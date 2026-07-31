@@ -5,8 +5,8 @@
 %global crate strum
 
 Name:           rust-%{crate}
-Version:        0.15.0
-Release:        4%{?dist}
+Version:        0.28.0
+Release:        1%{?dist}
 Summary:        Helpful macros for working with enums and strings
 
 # Upstream license specification: MIT
